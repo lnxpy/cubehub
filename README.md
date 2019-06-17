@@ -15,11 +15,13 @@ Actually CubeHub has been made for Windows users basically and I don't have any 
 
 # Application preview
 ![alt text](https://raw.githubusercontent.com/lnxpy/cubehub/master/view/view1.jpg)
+<hr>
 ![alt text](https://raw.githubusercontent.com/lnxpy/cubehub/master/view/view2.jpg)
+<hr>
 ![alt text](https://raw.githubusercontent.com/lnxpy/cubehub/master/view/view3.jpg)
-  <br><br>
+  <hr>
   <b><i>Output:</i></b>
-  <br>
+  <hr>
   ![alt text](https://raw.githubusercontent.com/lnxpy/cubehub/master/view/profile.gif)
 # Fork
 Fork is free for everyone.
