@@ -16,7 +16,7 @@ Actually CubeHub has been made for Windows users basically and I don't have any 
 # Application preview
 ![alt text](https://raw.githubusercontent.com/lnxpy/cubehub/master/view/view1.jpg)
 ![alt text](https://raw.githubusercontent.com/lnxpy/cubehub/master/view/view2.jpg)
-![alt text](https://raw.githubusercontent.com/lnxpy/cubehub/master/view/view3.jpg)
+![alt text](https://raw.githubusercontent.com/lnxpy/cubehub/master/view/view3.jpg)<br>
   <b><i>Output:</i></b><br>
   ![alt text](https://raw.githubusercontent.com/lnxpy/cubehub/master/view/profile.gif)
 # Fork
