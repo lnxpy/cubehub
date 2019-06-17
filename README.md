@@ -10,6 +10,9 @@ The User Interface of CubeHub has been made in <a href="https://bunifuframework.
 # Backend
 The back side of CubeHub is a python script. Although python is one of the most powerful tools in networking, I used <a href="https://2.python-requests.org/en/master/"><b>requests</b></a> library to create connections and recieve JSON files and .XML data from webserver of <a href="https://developer.github.com/v3/"><b>Github</b></a>.
 
+# Usage
+Clone the repository then extract the CubeHub.rar file. Not It's time to run the application. Run CubeHub.exe from CubeHub/bin/Debug/ path.
+
 # How about Linux?
 Actually CubeHub has been made for Windows users basically and I don't have any idea to release and improve the Linux version of CubeHub but Linux users wait for some surprises.
 
