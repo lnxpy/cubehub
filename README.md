@@ -15,11 +15,12 @@ Actually CubeHub has been made for Windows users basically and I don't have any 
 
 # UI preview
 <center>
-  <img href="https://github.com/lnxpy/cubehub/blob/master/view/view1.jpg">
-  <img href="https://github.com/lnxpy/cubehub/blob/master/view/view2.jpg">
-  <img href="https://github.com/lnxpy/cubehub/blob/master/view/view3.jpg">
-  This is out put
-  <img href="https://github.com/lnxpy/cubehub/blob/master/view/output.jpeg">  
+  <img href="https://raw.githubusercontent.com/lnxpy/cubehub/master/view/view1.jpg">
+  <img href="https://raw.githubusercontent.com/lnxpy/cubehub/master/view/view2.jpg">
+  <img href="https://raw.githubusercontent.com/lnxpy/cubehub/master/view/view3.jpg">
+  <br>
+  <b><i>This is out put</i></b>
+  <img href="https://raw.githubusercontent.com/lnxpy/cubehub/master/view/output.jpeg">  
   </center>
   
 # Fork
