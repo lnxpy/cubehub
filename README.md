@@ -13,12 +13,14 @@ The back side of CubeHub is a python script. Although python is one of the most 
 # How about Linux?
 Actually CubeHub has been made for Windows users basically and I don't have any idea to release and improve the Linux version of CubeHub but Linux users wait for some surprises.
 
-# Fork
-Fork is free for everyone.
-
 # UI preview
 <center>
-  <img href="">
-  <img href="">
-  <img href="">
+  <img href="https://github.com/lnxpy/cubehub/blob/master/view/view1.jpg">
+  <img href="https://github.com/lnxpy/cubehub/blob/master/view/view2.jpg">
+  <img href="https://github.com/lnxpy/cubehub/blob/master/view/view3.jpg">
+  This is out put
+  <img href="https://github.com/lnxpy/cubehub/blob/master/view/output.jpeg">  
   </center>
+  
+# Fork
+Fork is free for everyone.
