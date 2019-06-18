@@ -1,9 +1,4 @@
 # CubeHub <span><img src="https://github.com/lnxpy/git-badges/blob/master/build-passing-blue.svg" width="80px"></span><span><img src="https://github.com/lnxpy/git-badges/blob/master/license-gpl.svg" width="80px"></span>
-
-<head>
-  <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
-  </head>
-<body>
   
 <img src="https://raw.githubusercontent.com/lnxpy/cubehub/master/view/preview.png">
 <br>
@@ -28,5 +23,3 @@ Actually CubeHub has been made for Windows users basically and I don't have any 
 
 # Fork
 Fork is free for everyone.
-
-</body>
