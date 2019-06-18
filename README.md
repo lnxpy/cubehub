@@ -12,7 +12,7 @@ CubeHub is a mixed program with python and C# windows from application. You can 
 CubeHub is a desktop version of your GitHub profile viewer, Which lets you to monitor your page and take some shots of that. This application has been released for Windows OS and It's available for free for Windows users. CubeHub has been licensed with GPLv3. 
 
 # UI
-<span style="font-family: 'Ubuntu'">The User Interface of CubeHub has been made with <a href="https://bunifuframework.com/"><b>Bunifu</b></a> framework. FlatButton, GradientPanel, and FlatTextbox objects made this application beautiful and user-friendly.</span>
+The User Interface of CubeHub has been made with <a href="https://bunifuframework.com/"><b>Bunifu</b></a> framework. FlatButton, GradientPanel, and FlatTextbox objects made this application beautiful and user-friendly.
 
 # Backend
 The back side of CubeHub is a python script. Although python is one of the most powerful tools in networking, I used <a href="https://2.python-requests.org/en/master/"><b>requests</b></a> library to make connections and recieve JSON files and .XML data from webserver of <a href="https://developer.github.com/v3/"><b>Github</b></a>.
