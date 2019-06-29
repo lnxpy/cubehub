@@ -2,7 +2,7 @@
   
 <img src="https://raw.githubusercontent.com/lnxpy/cubehub/master/view/preview.png">
 <br>
-CubeHub is a mixed program with python and C# windows from the application. You can use this application to take shots of your Github profile and send them to your friends to follow your profile, gists, and repositories.
+CubeHub is a mixed program with python and C# windows from application. You can use this application to take shots of your Github profile and send them to your friends to follow your profile, gists, and repositories.
 
 CubeHub is a desktop version of your GitHub profile viewer, Which lets you monitor your page and take some shots of that. This application has been released for Windows OS and It's available for free for Windows users. CubeHub has been licensed with GPLv3. 
 
